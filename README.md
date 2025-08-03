@@ -1,7 +1,7 @@
 # Sentiment Analysis on Customer Reviews
 This project analyzes customer reviews and classifies them as positive or negative using Natural Language Processing (NLP) techniques.
 
-✅ Features
+#Features
 
 Processes and cleans raw review data
 
